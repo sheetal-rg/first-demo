@@ -1,3 +1,4 @@
 # first-demo
-This is my first Git Repository
-Author-Sheetal Raghav
+This is my first Git Repository.
+<br>
+Author-Sheetal Raghav🐾🐾..
